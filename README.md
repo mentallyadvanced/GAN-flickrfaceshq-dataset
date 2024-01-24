@@ -1,1 +1,2 @@
-# GAN on flickrfaceshq-dataset
+# GAN on flickrfaceshq dataset
+
